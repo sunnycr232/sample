@@ -1,4 +1,4 @@
 <?php
-echo "Intense"
+echo "welcome to Intense"
 ?>
 
