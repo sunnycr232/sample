@@ -1,4 +1,4 @@
 <?php
-echo "welcome to TSG"
+echo "welcome to SSG"
 ?>
 
