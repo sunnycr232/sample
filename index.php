@@ -1,4 +1,4 @@
 <?php
-echo " Welcome to SSG"
+echo " Hllo world"
 ?>
 
