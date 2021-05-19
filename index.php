@@ -1,4 +1,4 @@
 <?php
-echo " Hllo world"
+echo "Intense Technologies"
 ?>
 
