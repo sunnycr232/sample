@@ -1,4 +1,4 @@
 <?php
-echo "TSGTSGTSGTSG"
+echo "ssg"
 ?>
 
